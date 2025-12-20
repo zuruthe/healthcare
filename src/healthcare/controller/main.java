@@ -1,4 +1,4 @@
-package healthcare;
+package healthcare.controller;
 
 public class main {
 
