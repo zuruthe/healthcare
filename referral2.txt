@@ -1,0 +1,28 @@
+REFERRAL LETTER
+========================
+Referral ID: 2
+Patient ID: P008
+Referring Clinician: 2
+Referred To Clinician: 2
+From Facility: 2
+To Facility: 2
+Referral Date: 2026-01-04
+Urgency: 2
+Status: Pending
+
+Reason:
+2
+
+Clinical Summary:
+
+
+Requested Investigations:
+
+
+Appointment ID: 
+
+Notes:
+
+
+Created: 2026-01-04
+Last Updated: 2026-01-04

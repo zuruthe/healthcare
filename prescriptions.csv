@@ -1,0 +1,11 @@
+prescription_id,patient_id,clinician_id,appointment_id,prescription_date,medication_name,dosage,frequency,duration_days,quantity,instructions,pharmacy_name,status,issue_date,collection_date
+RX001,P001,C001,A001,20/09/2025,Simvastatin,20mg,Once daily,28,28,Take with evening meal,Boots Pharmacy Birmingham,Collected,20/09/2025,30/12/2025
+RX002,P002,C009,A002,20/09/2025,Paracetamol,500mg,As required,7,16,Max 8 tablets in 24 hours,Superdrug Birmingham Central,Issued,20/09/2025,
+RX003,P003,C003,A003,21/09/2025,Ramipril,5mg,Once daily,28,28,Take in morning,Lloyds Pharmacy Solihull,Collected,21/09/2025,03/01/2026
+RX004,P004,C002,A004,22/09/2025,GTN Spray,400mcg,As required,30,1,Use for chest pain episodes,Boots Pharmacy Birmingham,Issued,22/09/2025,
+RX005,P006,C004,A006,23/09/2025,Metformin,500mg,Twice daily,28,56,Take with meals,Asda Pharmacy Sutton,Issued,23/09/2025,
+RX006,P008,C010,A008,26/09/2025,Folic Acid,5mg,Once daily,28,28,Take before food,Well Pharmacy Solihull,Issued,26/09/2025,
+RX007,P010,C002,A010,28/09/2025,Insulin Glargine,100units/ml,Once daily,28,1,Inject at same time daily,Boots Pharmacy Birmingham,Issued,28/09/2025,
+RX008,P001,C001,,15/09/2025,Ibuprofen,400mg,Three times daily,7,21,Take with food,Boots Pharmacy Birmingham,Collected,15/09/2025,16/09/2025
+RX009,P003,C003,,20/08/2025,Amlodipine,5mg,Once daily,28,28,Take in morning,Lloyds Pharmacy Solihull,Collected,20/08/2025,22/08/2025
+RX010,P005,C005,A005,25/09/2025,Atorvastatin,40mg,Once daily,28,28,Take in evening,Heartlands Hospital Pharmacy,issued,25/09/2025,03/01/2026

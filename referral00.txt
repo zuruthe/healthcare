@@ -1,0 +1,28 @@
+REFERRAL LETTER
+========================
+Referral ID: 00
+Patient ID: P007
+Referring Clinician: 99
+Referred To Clinician: 99
+From Facility: 99
+To Facility: 99
+Referral Date: 2026-01-03
+Urgency: iu
+Status: Pending
+
+Reason:
+mm
+
+Clinical Summary:
+nmmn
+
+Requested Investigations:
+
+
+Appointment ID: 
+
+Notes:
+
+
+Created: 2026-01-03
+Last Updated: 2026-01-03

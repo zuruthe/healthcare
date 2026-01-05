@@ -1,0 +1,28 @@
+REFERRAL LETTER
+========================
+Referral ID: 1
+Patient ID: P003
+Referring Clinician: C004
+Referred To Clinician: C005
+From Facility: S003
+To Facility: H001
+Referral Date: 2026-01-04
+Urgency: Routine
+Status: Pending
+
+Reason:
+
+
+Clinical Summary:
+
+
+Requested Investigations:
+
+
+Appointment ID: 
+
+Notes:
+
+
+Created: 2026-01-04
+Last Updated: 2026-01-04
